@@ -12,7 +12,7 @@ Combine all `svg` files into a single file (the sprite) then reference the indiv
 
 ## CSS
 
-I've put `font-size: 10px` on `html`. This is so I can set widths/heights in `rem` units as e.g. 1.6rem (16px).
+I've put `font-size: 10px` on `html`. This is so I can set widths/heights in `rem` units as e.g. `1.6rem` (16px).
 
 ## Sources
 
